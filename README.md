@@ -3,18 +3,13 @@
 <p><em>Software Enginner at <a href="http://www.unb.br">University of Brasilia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Reddit: ThaiiBraga](https://img.shields.io/reddit/follow/trynocs?style=social)](https://reddit.com/trynocs)
-[![GitHub Trynocs](https://img.shields.io/github/followers/trynocs?label=follow&style=social)](https://github.com/Trynocs)
-
-
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const thai = {
+const try = {
   pronouns: "he" | "him",
   code: [Java],
   tools: [Aikar Command Framework, Bukkit, Paper],
-  architecture: ["microservices", "event-driven", "design system pattern"],
  challenge: "I am coding an Minecraft-Plugin in 180 Days which should be All-In-One."
 }
 ```
