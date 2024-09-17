@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [Coming soon...](Coming soon...)
+- 👨‍💻 All of my projects are available at [Coming soon...](www.trynocs.com)
 
 - 💬 Ask me about **Minecraft**
 
@@ -28,10 +28,7 @@
 <p><img align="left" src="https://github-readme-stats-blond-rho-46.vercel.app/api/top-langs?username=trynocs&show_icons=true&theme=ambient_gradient&title_color=ffffff&text_color=ffffff&hide_border=true&locale=de&layout=pie" alt="trynocs" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-blond-rho-46.vercel.app/api?username=trynocs&show_icons=true&theme=ambient_gradient&title_color=ffffff&text_color=ffffff&hide_border=true&locale=de" alt="trynocs" /></p>
-
 <p><img src="https://streak-stats.demolab.com?user=trynocs&theme=ambient-gradient&locale=de" alt="GitHub Streak" /></p>
-<br>
-<br>
 <br>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trynocs" alt="trynocs" /></a> </p>
