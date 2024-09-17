@@ -23,7 +23,7 @@ I am a versatilist and easily adapt to different hats (Minecraft Plugin Develope
 
 
 ### 📊 Github Stats
-<img alt="Trynocs's Github Stats" src='[https://github.com/rahul-jha98/github-stats-transparent](https://stats-bice-eight.vercel.app/api?username=trynocs&show_icons=true&hide_border=true)'/>
+<img alt="Trynocs's Github Stats" src='[https://github.com/trynocs/stats](https://stats-bice-eight.vercel.app/api?username=trynocs&show_icons=true&hide_border=true)'/>
   
 ![Stats Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
 ![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
