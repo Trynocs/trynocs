@@ -24,10 +24,14 @@
 <br>
 <br>
 <br>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trynocs" alt="trynocs" /></a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=trynocs&show_icons=true&theme=tokyonight&title_color=ffffff&text_color=ffffff&bg_color=000000&hide_border=true&locale=de&layout=compact" alt="trynocs" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-blond-rho-46.vercel.app/api?username=trynocs&show_icons=true&theme=tokyonight&title_color=ffffff&text_color=ffffff&bg_color=000000&hide_border=true&locale=de" alt="trynocs" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trynocs&theme=highcontrast" alt="trynocs" /></p>
+<br>
+<br>
+<br>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trynocs" alt="trynocs" /></a> </p>
