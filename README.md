@@ -25,7 +25,7 @@ I am a versatilist and easily adapt to different hats (Minecraft Plugin Develope
 <br>
 
 ### 📊 Github Stats
-<img align="left" src="https://stats-vpcks9055-trynocs-projects.vercel.app/api?username=trynocs&show_icons=true&hide_border=true"/>
+<img align="left" src="https://github-readme-stats-blond-rho-46.vercel.app/api?username=trynocs&show_icons=true&hide_border=true"/>
 
 <br>
 
