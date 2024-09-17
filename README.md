@@ -22,12 +22,10 @@ I am a versatilist and easily adapt to different hats (Minecraft Plugin Develope
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
 <a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
 <br>
-
+<br>
 
 ### 📊 Github Stats
 <img align="left" src="https://stats-vpcks9055-trynocs-projects.vercel.app/api?username=trynocs&show_icons=true&hide_border=true"/>
-  
-</a>
 
 <br>
 
