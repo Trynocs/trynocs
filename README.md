@@ -1,19 +1,36 @@
-<h2> Hi, I'm Trynocs! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Software Enginner at <a href="http://www.unb.br">University of Brasilia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+## Hey 👋, I'm Trynocs!
+<a href='<https://discord.com/users/725785647834464368>'><img align='left' alt="discord" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+I am a versatilist and easily adapt to different hats (Minecraft Plugin Developer📱) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
+<br/>
+<br/>
 
-```javascript
-const try = {
-  pronouns: "he" | "him",
-  code: [Java],
-  tools: [Aikar Command Framework, Bukkit, Paper],
- challenge: "I am coding an Minecraft-Plugin in 180 Days which should be All-In-One."
-}
-```
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+  
+### 🧐 More About Me:
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+- 🔭 &nbsp; I’m currently working on **BlockBet**
+- 🌱 &nbsp; I’m currently learning Python; 
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/trynocs?tab=repositories)
+- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 
----
+<br>
+
+### 🔨 Languages and Tools:
+<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
+<a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
+<br>
+
+
+### 📊 Github Stats
+<img alt="Trynocs's Github Stats" src='[https://github.com/rahul-jha98/github-stats-transparent](https://stats-bice-eight.vercel.app/api?username=trynocs&show_icons=true&hide_border=true)'/>
+  
+![Stats Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
+
+</a>
+
+<br>
+
+### 🛠️ My Projects
+### Coming soon...
