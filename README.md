@@ -1,5 +1,6 @@
 ## Hey 👋, I'm Trynocs!
-<a href='<https://discord.com/users/725785647834464368>'><img align='left' alt="discord" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
+<a href='<https://discord.com/users/725785647834464368>'><img align='left' alt="discord" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficons8.de%2Ficon%2F30998%2Fdiscord-logo&psig=AOvVaw1_yYFsDh353M5rfWMG28QP&ust=1726663830853000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLCDkY6CyogDFQAAAAAdAAAAABAE" height='18px'/></a>
+<br>
 
 I am a versatilist and easily adapt to different hats (Minecraft Plugin Developer📱) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
 <br/>
