@@ -9,7 +9,7 @@ I am a versatilist and easily adapt to different hats (Minecraft Plugin Develope
   
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on **BlockBet**
+- 🔭 &nbsp; I’m currently working on **BlockNet**
 - 🌱 &nbsp; I’m currently learning Python; 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/trynocs?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
@@ -25,9 +25,6 @@ I am a versatilist and easily adapt to different hats (Minecraft Plugin Develope
 ### 📊 Github Stats
 <img align="left" src="https://stats-vpcks9055-trynocs-projects.vercel.app/api?username=trynocs&show_icons=true&hide_border=true"/>
   
-![Stats Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
-
 </a>
 
 <br>
