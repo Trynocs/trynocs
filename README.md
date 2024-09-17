@@ -1,5 +1,7 @@
 ## Hey 👋, I'm Trynocs!
 <a href='<https://discord.com/users/725785647834464368>'><img align='left' src="https://img.icons8.com/?size=512&id=30998&format=png" height='18px'/></a>
+<br>
+<br>
 
 I am a versatilist and easily adapt to different hats (Minecraft Plugin Developer📱) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
 <br/>
