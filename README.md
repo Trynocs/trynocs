@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [Coming soon...](www.trynocs.com)
+- 👨‍💻 All of my projects are available at [my Website](www.trynocs.com/work)
 
 - 💬 Ask me about **Minecraft**
 
