@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Trynocs!</h1>
 <h3 align="center">A Minecraft Plugin Developer from Germany.</h3>
 
-- 🔭 I’m currently working on **NPC Plugin**
+- 🔭 I’m currently working on **LabyChess**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **C/C++**
 
 - 👨‍💻 All of my projects are available at [my Website.](https://www.trynocs.com/work)
 
-- 💬 Ask me about **Minecraft**
+- 💬 Ask me about **Minecraft Plugins/Java**
 
 - ⚡ Fun fact **i started learning Java because of Minecraft.**
 
