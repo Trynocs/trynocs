@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Trynocs!</h1>
 <h3 align="center">A Minecraft Plugin Developer from Germany.</h3>
 
-- 🔭 I’m currently working on **LabyChess**
+- 🔭 I’m currently working on **[BlockyPlayz.de](discord.gg/fAnBdezVeQ)**
 
-- 🌱 I’m currently learning **C/C++**
+- 🌱 I’m currently learning **C++**
 
 - 👨‍💻 All of my projects are available at [my Website.](https://www.trynocs.com/work)
 
