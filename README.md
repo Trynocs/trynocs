@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Trynocs!</h1>
 <h3 align="center">A Minecraft Plugin Developer from Germany.</h3>
 
-- 🔭 I’m currently working on **[BlockyPlayz.de](https://discord.gg/fAnBdezVeQ)**
+- 🔭 I’m currently working on **N/A**
 
 - 🌱 I’m currently learning **C++**
 
