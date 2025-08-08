@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **N/A**
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **C#**
 
 - 👨‍💻 All of my projects are available at [my Website.](https://www.trynocs.com/work)
 
