@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **C#**
 
+- 🌱 I’m also advancing my **Minecraft Development** skills.
+
 - 👨‍💻 All of my projects are available at [my Website.](https://www.trynocs.com/work)
 
 - 💬 Ask me about **Minecraft Plugins/Java**
